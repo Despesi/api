@@ -1,6 +1,6 @@
 {
   "MARVEL" : {
-    {"Capitão América": heroi, "Steve Rogers": nome, "Escudo": poder},
+    {"Capitão América": "heroi", "Steve Rogers": nome, "Escudo": poder},
     {"Homem de Ferro": heroi, "Tony Stark": nome, "Armadura e dinheiro": poder},
     {"Hulk": heroi, "Bruce Banner": nome, "Ultra Força": poder},
     {"Homem-aranha": heroi, "Peter Parker": nome, "Teia,  ": poder},

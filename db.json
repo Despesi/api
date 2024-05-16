@@ -17,17 +17,3 @@
   }
 }
 
-{ 
-  "marvel" : [ 
-    {"heroi": "Capitão América", "nome": "Steve Rogers", "poder": "Escudo"},
-    {"heroi": "Homem de Ferro", "nome": "Tony Stark", "poder": "Armadura e dinheiro"}
-    {"heroi": "Hulk", "nome": "Bruce Banner", "poder": "Ultra força"}
-    {"heroi": "Homem-aranha", "nome": "Peter Parker", "poder": "Teia"}
-  ], 
-  "dc" : [ 
-    {"heroi": "Batman", "nome": "Bruce Wayne", "poder": "batrang, lutas marciais e dinheiro"}
-    {"heroi": "Superman", "nome": "Clark Kent", "poder": "Voar, Visão laser e super força"}
-    {"heroi": "Mulher-Maravilha", "nome": "Diana Prince", "poder": "Laço da verdade"}
-    {"heroi": "Flash", "nome": "Barry Allen", "poder": "Velocidade"}
-  ] 
-} 
